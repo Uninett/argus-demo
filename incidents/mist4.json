@@ -1,0 +1,17 @@
+{
+    "source_incident_id": "",
+    "source": "mist",
+    "details_url": "",
+    "description": "AP_DISCONNECTED AP04 at Sikt Trondheim",
+    "level": 4,
+    "ticket_url": "",
+    "tags": [
+	    "device_type=ap",
+	    "level=NOTICE",
+	    "host=AP04",
+	    "mac=<CENSORED>",
+	    "type=AP_DISCONNECTED",
+	    "site_name=Sikt Trondheim"
+    ],
+    "duration": "00:10:00"
+}
