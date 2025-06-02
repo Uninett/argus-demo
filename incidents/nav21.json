@@ -1,0 +1,15 @@
+{
+    "source_incident_id": "6881",
+    "source": "Sikt NAV",
+    "source_type": "nav",
+    "details_url": "https://nav.example.com/event/6881",
+    "description": "firewall-1 BGP session with firewall-3 is administratively DOWN",
+    "level": 4,
+    "tags": [
+        "location=Bergen",
+        "room=68",
+        "customer=Sikt",
+        "host=firewall-1.example.com"
+    ],
+    "duration": "00:05:00"
+}

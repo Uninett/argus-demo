@@ -1,0 +1,15 @@
+{
+    "source_incident_id": "36443",
+    "source": "SIAS NAV",
+    "source_type": "nav",
+    "details_url": "https://sias-nav.example.com/event/36443",
+    "description": "Module KW-CF-3G2FWC (GF3230225518), box switch-4.example.com is down since 8:12 a.m..",
+    "level": 3,
+    "tags": [
+        "location=Aas",
+        "room=101",
+        "customer=SIAS",
+        "host=switch-4.example.com"
+    ],
+    "duration": "01:42:00"
+}

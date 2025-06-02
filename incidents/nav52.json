@@ -1,0 +1,15 @@
+{
+    "source_incident_id": "7124",
+    "source": "MDIR NAV",
+    "source_type": "nav",
+    "details_url": "https://mdir-nav.example.com/event/7124",
+    "description": "No SNMP response: firewall-5.local",
+    "level": 3,
+    "tags": [
+        "location=Trondheim",
+        "room=105",
+        "customer=MDIR",
+        "host=firewall-5.local"
+    ],
+    "duration": "00:15:00"
+}

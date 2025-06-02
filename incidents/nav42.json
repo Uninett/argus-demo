@@ -1,0 +1,16 @@
+{
+    "source_incident_id": "36453",
+    "source": "SIAS NAV",
+    "source_type": "nav",
+    "details_url": "https://sias-nav.example.com/event/36453",
+    "description": "Link DOWN on cd-0/1/8 at sias-switch-3",
+    "level": 3,
+    "tags": [
+        "location=Aas",
+        "room=087",
+        "customer=SIAS",
+        "host=sias-switch-3.example.com",
+        "interface=cd-0/1/8"
+    ],
+    "duration": "00:09:00"
+}

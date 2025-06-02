@@ -1,0 +1,15 @@
+{
+    "source_incident_id": "36441",
+    "source": "SIAS NAV",
+    "source_type": "nav",
+    "details_url": "https://sias-nav.example.com/event/36441",
+    "description": "Module LD-KS-3G2GSV (AB923041563), box switch-3.example.com is down since 4:15 a.m..",
+    "level": 3,
+    "tags": [
+        "location=Aas",
+        "room=101",
+        "customer=SIAS",
+        "host=switch-3.example.com"
+    ],
+    "duration": "02:01:00"
+}

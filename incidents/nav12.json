@@ -1,0 +1,16 @@
+{
+    "source_incident_id": "1236",
+    "source": "Sikt NAV",
+    "source_type": "nav",
+    "details_url": "https://nav.example.com/event/1236",
+    "description": "Box down router-3.lab.example.com",
+    "level": 2,
+    "ticket_url": "https://github.com/Uninett/nav/issues/3020",
+    "tags": [
+      "location=Trondheim",
+      "room=111",
+      "customer=Sikt",
+      "host=router-3.example.com"
+    ],
+    "duration": "00:35:00"
+}

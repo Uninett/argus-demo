@@ -1,0 +1,16 @@
+{
+    "source_incident_id": "42477abc821f39e1-1748338928.158",
+    "source": "Prometheus Sikt",
+    "source_type": "prometheus",
+    "details_url": "https://prometheus.example.com/graph?g0.expr=rate%28container_cpu_usage_seconds_total%7Bcontainer%92%8F%22%22%2Cnamespace%3D%22ki-chat-sikt-ki-elevassistent%22%7D%5B1m%5D%29+%3E+0.85&g0.tab=1",
+    "description": "High CPU usage detected in ki-chat-sikt-ki-elevassistent for container app in pod production",
+    "level": 4,
+    "tags": [
+        "container=app",
+        "prometheus=monitoring/system",
+        "cpu=total",
+        "endpoint=https-metrics",
+        "namespace=ki-chat-sikt-ki-elevassistent"
+    ],
+    "duration": "00:00:02"
+}

@@ -1,16 +1,16 @@
 {
-    "source_incident_id": "1977",
+    "source_incident_id": "1981",
     "source": "Sikt mist",
     "source_type": "mist",
-    "description": "AP_DISCONNECTED AP02 at Sikt Trondheim",
+    "description": "AP_DISCONNECTED AP06 at Sikt Trondheim",
     "level": 4,
     "tags": [
 	    "device_type=ap",
 	    "level=NOTICE",
-	    "host=AP02",
-	    "mac=00:00:5E:00:53:01",
+	    "host=AP06",
+	    "mac=00:00:5E:00:53:05",
 	    "type=AP_DISCONNECTED",
 	    "site_name=Sikt Trondheim"
     ],
-    "duration": "00:10:00"
+    "duration": "00:16:00"
 }

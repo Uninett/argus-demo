@@ -1,0 +1,15 @@
+{
+    "source_incident_id": "36445",
+    "source": "SIAS NAV",
+    "source_type": "nav",
+    "details_url": "https://sias-nav.example.com/event/36445",
+    "description": "Module PD-KW-7E2FUW (GF3940294518), box switch-5.example.com is down since 3:31 p.m..",
+    "level": 3,
+    "tags": [
+        "location=Aas",
+        "room=107",
+        "customer=SIAS",
+        "host=switch-5.example.com"
+    ],
+    "duration": "01:27:00"
+}

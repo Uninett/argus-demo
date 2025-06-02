@@ -1,0 +1,15 @@
+{
+    "source_incident_id": "36439",
+    "source": "SIAS NAV",
+    "source_type": "nav",
+    "details_url": "https://sias-nav.example.com/event/36439",
+    "description": "Module ST-UV-6S2NSP (AB923041562), box switch-2.example.com is down since 4:15 p.m..",
+    "level": 3,
+    "tags": [
+        "location=Aas",
+        "room=100",
+        "customer=SIAS",
+        "host=switch-2.example.com"
+    ],
+    "duration": "03:19:00"
+}

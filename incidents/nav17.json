@@ -1,0 +1,15 @@
+{
+    "source_incident_id": "235323",
+    "source": "Sikt NAV",
+    "source_type": "nav",
+    "details_url": "https://nav.example.com/event/235323",
+    "description": "Box down switch-3.example.com",
+    "level": 3,
+    "tags": [
+      "location=Oslo",
+      "room=3671",
+      "customer=Sikt",
+      "host=switch-3.example.com"
+    ],
+    "duration": "00:19:00"
+}

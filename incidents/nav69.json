@@ -1,0 +1,15 @@
+{
+    "source_incident_id": "36446",
+    "source": "SIAS NAV",
+    "source_type": "nav",
+    "details_url": "https://sias-nav.example.com/event/36446",
+    "description": "Module PW-FH-3C7KWC (IW6729435576), box switch-6.example.com is down since 3:31 p.m..",
+    "level": 3,
+    "tags": [
+        "location=Aas",
+        "room=107",
+        "customer=SIAS",
+        "host=switch-6.example.com"
+    ],
+    "duration": "02:19:00"
+}

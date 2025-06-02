@@ -1,17 +1,16 @@
 {
-    "source_incident_id": "",
-    "source": "mist",
-    "details_url": "",
+    "source_incident_id": "1978",
+    "source": "Sikt mist",
+    "source_type": "mist",
     "description": "AP_DISCONNECTED AP03 at Sikt Trondheim",
     "level": 4,
-    "ticket_url": "",
     "tags": [
 	    "device_type=ap",
 	    "level=NOTICE",
 	    "host=AP03",
-	    "mac=<CENSORED>",
+	    "mac=00:00:5E:00:53:02",
 	    "type=AP_DISCONNECTED",
 	    "site_name=Sikt Trondheim"
     ],
-    "duration": "00:10:00"
+    "duration": "00:09:00"
 }

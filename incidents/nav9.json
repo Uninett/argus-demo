@@ -1,0 +1,15 @@
+{
+    "source_incident_id": "1524",
+    "source": "Norid NAV",
+    "source_type": "nav",
+    "details_url": "https://norid-nav.example.com/event/1524",
+    "description": "norid-router-4.example.com BGP session with 198.51.100.255 is DOWN",
+    "level": 4,
+    "tags": [
+        "location=Stavanger",
+        "room=152",
+        "customer=Norid",
+        "host=norid-router-4.example.com"
+    ],
+    "duration": "00:08:45"
+}
