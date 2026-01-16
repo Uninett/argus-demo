@@ -1,0 +1,20 @@
+{
+    "source_incident_id": "19j72n727ph37ne0",
+    "source": "Prometheus Sikt",
+    "source_type": "prometheus",
+    "details_url": "https://prometheus.example.com/graph?g0.expr=kube_job_status_failed%2Cnamespace%3D%22platon-dependency-automation%22%7D%5B1m%5D%29+%3E+0.85&g0.tab=1",
+    "description": "Alert in case of cronjob failure",
+    "level": 2,
+    "tags": [
+        "reason=BackoffLimitExceeded",
+        "severity=error",
+        "alertname=CronjobFailure",
+        "container=proxy-main",
+        "prometheus=monitoring/system",
+        "job=cube-state-metrics",
+        "service=platon",
+        "namespace=platon-dependency-automation",
+        "job_name=track-automation-production-23043492"
+    ],
+    "duration": "13:16:05"
+}

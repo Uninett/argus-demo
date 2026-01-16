@@ -1,0 +1,19 @@
+{
+    "source_incident_id": "ow0v5j9gsb7e83hw-0512620626.286",
+    "source": "Prometheus Sikt",
+    "source_type": "prometheus",
+    "details_url": "https://prometheus.example.com/graph?g0.expr=probe_success+%2D%29+%3E+0.85&g0.tab=1",
+    "description": "Probe failed (instance https://example.com/docs/)",
+    "level": 2,
+    "tags": [
+        "service=KUDAF",
+        "prometheus=monitoring/system",
+        "job=kudaf-example-probe-job",
+        "namespace=kudaf-kudaf-frontend-example-api",
+        "instance=example.com/docs",
+        "severity=error",
+        "team=kudaf",
+        "alertname=ProbeFailed"
+    ],
+    "duration": "13:16:05"
+}
