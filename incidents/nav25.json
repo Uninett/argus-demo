@@ -9,7 +9,8 @@
         "location=Bergen",
         "room=71",
         "customer=Sikt",
-        "host=firewall-2.example.com"
+        "host=firewall-2.example.com",
+        "service=Sikt_CNaaS"
     ],
     "duration": "00:08:45"
 }

@@ -9,7 +9,8 @@
       "location=Oslo",
       "room=3380",
       "customer=Sikt",
-      "host=switch-1.example.com"
+      "host=switch-1.example.com",
+        "service=Sikt_CNaaS"
     ],
     "duration": "00:15:00"
 }

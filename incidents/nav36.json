@@ -9,7 +9,8 @@
         "location=Oslo",
         "room=250",
         "customer=Norid",
-        "host=norid-router-2.example.com"
+        "host=norid-router-2.example.com",
+        "service=Sikt_CNaaS"
     ],
     "duration": "00:25:00"
 }

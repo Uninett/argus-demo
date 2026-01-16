@@ -9,7 +9,8 @@
         "location=Gjovik",
         "room=100",
         "customer=NTNU",
-        "host=firewall-2.example.com"
+        "host=firewall-2.example.com",
+        "service=Sikt_CNaaS"
     ],
     "duration": "06:34:00"
 }

@@ -10,7 +10,8 @@
       "location=Trondheim",
       "room=100",
       "customer=Sikt",
-      "host=router-2.example.com"
+      "host=router-2.example.com",
+        "service=Sikt_CNaaS"
     ],
     "duration": "00:09:00"
 }

@@ -10,7 +10,8 @@
         "room=086",
         "customer=SIAS",
         "host=sias-switch-2.example.com",
-        "interface=ab-0/0/8"
+        "interface=ab-0/0/8",
+        "service=Sikt_CNaaS"
     ],
     "duration": "00:11:00"
 }

@@ -10,7 +10,8 @@
 	    "host=AP05",
 	    "mac=00:00:5E:00:53:04",
 	    "type=AP_DISCONNECTED",
-	    "site_name=Sikt Trondheim"
+	    "site_name=Sikt Trondheim",
+        "service=Sikt_CNaaS"
     ],
     "duration": "00:12:00"
 }

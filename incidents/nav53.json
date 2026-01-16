@@ -9,7 +9,8 @@
         "location=Trondheim",
         "room=105",
         "customer=MDIR",
-        "host=firewall-4.local"
+        "host=firewall-4.local",
+        "service=Sikt_CNaaS"
     ],
     "duration": "00:19:00"
 }

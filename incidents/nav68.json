@@ -9,7 +9,8 @@
         "location=Aas",
         "room=107",
         "customer=SIAS",
-        "host=switch-5.example.com"
+        "host=switch-5.example.com",
+        "service=Sikt_CNaaS"
     ],
     "duration": "01:27:00"
 }
